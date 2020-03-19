@@ -1,0 +1,48 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "Personne morale",
+            "image": "Banque populaire"
+        },
+        {
+            "id": 2,
+            "type": "Personne morale",
+            "image": "CIH" 
+        },
+        {
+            "id": 3,
+            "type": "Personne morale",
+            "image": "MAROC LEASING"
+        }
+    ],
+    "clients":[
+        {
+            "id": 1,
+            "type": "Personne morale",
+            "name": "Banque populaire",
+            "rc": 10000001,
+            "ice": 100000001,
+            "cin": "BH 351548",
+            "tel": "0522662255"
+        },
+        {
+            "id": 2,
+            "type": "Personne morale",
+            "name": "CIH",
+            "rc": 10000002,
+            "ice": 100000002,
+            "cin": "BH 351548",
+            "tel": "0522662255"
+        },
+        {
+            "id": 3,
+            "type": "Personne morale",
+            "name": "MAROC LEASING",
+            "rc": 10000003,
+            "ice": 100000003,
+            "cin": "BH 351548",
+            "tel": "0522662255"
+        }
+    ]
+}
