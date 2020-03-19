@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Personne morale",
+        "image": "Banque populaire"
+    },
+    {
+        "id": 2,
+        "type": "Personne morale",
+        "image": "CIH" 
+    },
+    {
+        "id": 3,
+        "type": "Personne morale",
+        "image": "MAROC LEASING"
+    }
+]
