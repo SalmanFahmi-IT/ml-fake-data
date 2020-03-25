@@ -670,6 +670,7 @@
           "code": "OPTO",
           "libelle": "Options"
         }
-    ]
+    ],
+    "Bareme":{"tauxNominal":9.5,"periodicite":1,"dureeminMois":24,"dureeMaxMois":48,"returnMessage":"OK","returnCode":"0000"}
 
 }
