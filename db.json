@@ -1,19 +1,48 @@
 {
     "products":[
         {
-            "id": 1,
-            "title": "Personne morale",
-            "image": "Banque populaire"
+          "id": "P001",
+          "value": "P001",
+          "dateCreation": "20-05-2019",
+          "dateExpiration": "31-12-2050",
+          "summary": "Vous êtes un professionnel de la santé(*) et souhaitez acquérir un bien d'équipement ou un immobilier professionnel, Maroc Leasing vous propose MÉDICAL LEASING, la solution leasing la mieux adaptée à vos besoins et à votre métier.",
+          "subTitle": "La solution leasing sur mesure pour les professionnels de la santé",
+          "title": "MEDICAL LEASING",
+          "img": "/fl-produits-assets/medicalleasing/ml-produit_medical-leasing.jpg",
+          "plaquette": "/fl-produits-assets/medicalleasing/ml-produit_medical-leasing.pdf"
         },
         {
-            "id": 2,
-            "type": "Personne morale",
-            "image": "CIH" 
+          "id": "P002",
+          "value": "P002",
+          "dateCreation": "24-06-2019",
+          "dateExpiration": "31-12-2050",
+          "summary": "Vous  exercez  une  profession  libérale  et  souhaitez  bénéficier d¿une offre bancaire complète qui répond à la fois à vos besoins professionnels et personnels ? La Banque Populaire a créé pour vous LIBERTIS PRO !",
+          "subTitle": "La solution liberté pour les pro",
+          "title": "LIBERTIS PRO",
+          "img": "/fl-produits-assets/LibertisProLease/libertis-pro.e89d1a18.jpg",
+          "plaquette": "/fl-produits-assets/LibertisProLease/RecupererProduitPDF.pdf"
         },
         {
-            "id": 3,
-            "type": "Personne morale",
-            "image": "MAROC LEASING"
+          "id": "P003",
+          "value": "P003",
+          "dateCreation": "24-06-2019",
+          "dateExpiration": "31-12-2050",
+          "summary": "Vous êtes une TPE, un artisan ou un commerçant à la recherche de la solution leasing la mieux adaptée à vos besoins ? Au  service  du  développement  de  votre  activité,  Maroc  Leasing  a  créé  pour  vous  AL  MOUKAWIL  CHAABI  LEASE,  une  offre  spécialement  conçue  afin  de  satisfaire  vos  attentes  en  matière  de  financement.",
+          "subTitle": "Le leasing dédié aux\npetites entreprises",
+          "title": "AL MOUKAWILCHAABI LEASE",
+          "img": "/fl-produits-assets/AlmoukawilChaabiLease/AlmoukawilChaabiLease.jpg",
+          "plaquette": "/fl-produits-assets/AlmoukawilChaabiLease/AlmoukawilChaabiLease.pdf"
+        },
+        {
+          "id": "P004",
+          "value": "P004",
+          "dateCreation": "19-07-2019",
+          "dateExpiration": "31-12-2050",
+          "summary": "Vous êtes une entreprise ou un professionnel, à la recherche de la solution leasing la mieux\nadaptée à vos besoins pour le financement de votre matériel de transport ?\nMaroc Leasing a créé pour vous NAKL LEASING, une offre sur mesure au service du\ndéveloppement de votre activité.",
+          "subTitle": "Le financement optimal de votre\nmatériel de transport",
+          "title": "NAKL LEASING",
+          "img": "/fl-produits-assets/NaklLeasing/visuel-nakl_leasing.jpg",
+          "plaquette": "/fl-produits-assets/NaklLeasing/plaquette-nakl_leasing.pdf"
         }
     ],
     "clients":[
@@ -337,5 +366,310 @@
       "returnMessage": null,
       "returnCode": null
     }
-  ]
+    ],
+    "NatureBiens":[
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "B02A",
+          "libelle": "MATERIEL INFORMATIQUE",
+          "tauxVR": 1,
+          "libelleCourt": "MATERIEL I",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "IB",
+          "libelle": "IMMEUBLE BUREAU",
+          "tauxVR": 10,
+          "libelleCourt": "IMMEUBLE B",
+          "categorieContrat": "CBI"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "II",
+          "libelle": "IMMEUBLE INDUSTRIEL",
+          "tauxVR": 10,
+          "libelleCourt": "IMMEUBLE I",
+          "categorieContrat": "CBI"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "IM01",
+          "libelle": "CONSTRUCTION",
+          "tauxVR": 10,
+          "libelleCourt": "CONSTRUCTI",
+          "categorieContrat": "CBI"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "LCA",
+          "libelle": "LOCAL COMMERCIAL",
+          "tauxVR": 10,
+          "libelleCourt": "LOCAL COMM",
+          "categorieContrat": "CBI"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "M05C",
+          "libelle": "MATERIEL DE PRODUCTION",
+          "tauxVR": 1,
+          "libelleCourt": "MATERIEL D",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MB03",
+          "libelle": "MOBILIER BUREAUTIQUE",
+          "tauxVR": 1,
+          "libelleCourt": "MOBILIER B",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MB06",
+          "libelle": "AMENAGEMENTS",
+          "tauxVR": 1,
+          "libelleCourt": "AMENAGEMEN",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MD10",
+          "libelle": "EQUIPEMENT MEDICAL",
+          "tauxVR": 1,
+          "libelleCourt": "EQUIPEMENT",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MG",
+          "libelle": "MAGASINS",
+          "tauxVR": 10,
+          "libelleCourt": "MAGASINS",
+          "categorieContrat": "CBI"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MP06",
+          "libelle": "EQUIPEMENT",
+          "tauxVR": 1,
+          "libelleCourt": "EQUIPEMENT",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MT02",
+          "libelle": "CAMION",
+          "tauxVR": 1,
+          "libelleCourt": "CAMION",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MT03",
+          "libelle": "CAMION + BENNE (OU PLATEAU)",
+          "tauxVR": 1,
+          "libelleCourt": "CAMION + B",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MT05",
+          "libelle": "SEMI-REMORQUE",
+          "tauxVR": 1,
+          "libelleCourt": "SEMI-REMOR",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MT06",
+          "libelle": "TRACTEUR ROUTIER",
+          "tauxVR": 1,
+          "libelleCourt": "TRACTEUR R",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "MT07",
+          "libelle": "Carrosserie",
+          "tauxVR": 1,
+          "libelleCourt": "Carrosseri",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "PBA",
+          "libelle": "PLATEAU DE BUREAU",
+          "tauxVR": 10,
+          "libelleCourt": "PLATEAU DE",
+          "categorieContrat": "CBI"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "R02C",
+          "libelle": "ROULANT POIDS LOURD",
+          "tauxVR": 1,
+          "libelleCourt": "ROULANT PO",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "TP22",
+          "libelle": "Equipements TP",
+          "tauxVR": 1,
+          "libelleCourt": "Equipement",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "VT01",
+          "libelle": "VEHICULE DE TOURISME",
+          "tauxVR": 1,
+          "libelleCourt": "VEHICULE D",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "VU02",
+          "libelle": "VEHICULE UTILITAIRE",
+          "tauxVR": 1,
+          "libelleCourt": "VEHICULE U",
+          "categorieContrat": "CBM"
+        },
+        {
+          "id": 0,
+          "bienid": 0,
+          "code": "XR2",
+          "libelle": "TERR AMORT",
+          "tauxVR": 10,
+          "libelleCourt": "TERR AMORT",
+          "categorieContrat": "CBI"
+        }
+    ],
+    "FormeJuridique":[
+        {
+          "code": "AP",
+          "libelle": "Affaire personnelle",
+          "typePersonne": "PP"
+        },
+        {
+          "code": "AVO",
+          "libelle": "Avocat",
+          "typePersonne": "PP"
+        },
+        {
+          "code": "DOC",
+          "libelle": "Docteur",
+          "typePersonne": "PP"
+        },
+        {
+          "code": "MAIT",
+          "libelle": "Maitre",
+          "typePersonne": "PP"
+        },
+        {
+          "code": "MME",
+          "libelle": "Madame",
+          "typePersonne": "PP"
+        },
+        {
+          "code": "MR",
+          "libelle": "Monsieur",
+          "typePersonne": "PP"
+        },
+        {
+          "code": "SA",
+          "libelle": "Société anonyme",
+          "typePersonne": "PM"
+        },
+        {
+          "code": "SARL",
+          "libelle": "S.A.R.L.",
+          "typePersonne": "PM"
+        },
+        {
+          "code": "SARU",
+          "libelle": "SARL associé unique",
+          "typePersonne": "PM"
+        },
+        {
+          "code": "SCI",
+          "libelle": "S. civile immobilière",
+          "typePersonne": "PM"
+        },
+        {
+          "code": "SNC",
+          "libelle": "Sté en nom collectif",
+          "typePersonne": "PM"
+        },
+        {
+          "code": "SUCC",
+          "libelle": "Succursal",
+          "typePersonne": "PM"
+        }
+    ],
+    "TVAs":[
+        {
+          "code": "T003",
+          "libelle": "20 %",
+          "value": 20,
+          "parDefaut": true
+        },
+        {
+          "code": "T002",
+          "libelle": "14 %",
+          "value": 14,
+          "parDefaut": false
+        },
+        {
+          "code": "T000",
+          "libelle": "0 %",
+          "value": 0,
+          "parDefaut": false
+        }
+    ],
+    "TypesFrais":[
+        {
+          "code": "MATE",
+          "libelle": "Matériel"
+        },
+        {
+          "code": "ACCS",
+          "libelle": "Accessoires"
+        },
+        {
+          "code": "ATFR",
+          "libelle": "Autres frais"
+        },
+        {
+          "code": "FRIM",
+          "libelle": "Frais d'immatriculation"
+        },
+        {
+          "code": "OPTO",
+          "libelle": "Options"
+        }
+    ]
+
 }
