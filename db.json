@@ -32,17 +32,6 @@
           "title": "AL MOUKAWILCHAABI LEASE",
           "img": "/fl-produits-assets/AlmoukawilChaabiLease/AlmoukawilChaabiLease.jpg",
           "plaquette": "/fl-produits-assets/AlmoukawilChaabiLease/AlmoukawilChaabiLease.pdf"
-        },
-        {
-          "id": "P004",
-          "value": "P004",
-          "dateCreation": "19-07-2019",
-          "dateExpiration": "31-12-2050",
-          "summary": "Vous êtes une entreprise ou un professionnel, à la recherche de la solution leasing la mieux\nadaptée à vos besoins pour le financement de votre matériel de transport ?\nMaroc Leasing a créé pour vous NAKL LEASING, une offre sur mesure au service du\ndéveloppement de votre activité.",
-          "subTitle": "Le financement optimal de votre\nmatériel de transport",
-          "title": "NAKL LEASING",
-          "img": "/fl-produits-assets/NaklLeasing/visuel-nakl_leasing.jpg",
-          "plaquette": "/fl-produits-assets/NaklLeasing/plaquette-nakl_leasing.pdf"
         }
     ],
     "clients":[
@@ -75,38 +64,6 @@
       "codeActivite": null,
       "activite": null,
       "cin": "M206467",
-      "returnMessage": null,
-      "returnCode": null
-    },
-    {
-      "id": "0000043123",
-      "rs": "  ",
-      "eid": "0000043123",
-      "prenom": "AHMED",
-      "codeTypeClient": "2",
-      "typeClient": "PERSONNE PHYSIQUE",
-      "ice": null,
-      "rc": "",
-      "codeFJ": "MR",
-      "fj": "PERSONNE PHYSIQUE",
-      "nbrAlertes": 0,
-      "nom": "TAZI",
-      "dateCreation": null,
-      "adresse": "LOT HAIT MHIDI N  13 CALIFORNIE CASABLANCA ",
-      "mobile": null,
-      "fixe": null,
-      "tel": null,
-      "email": null,
-      "contratLoyer": "0",
-      "contratNbr": 0,
-      "capital": null,
-      "chiffreAffaire": "0",
-      "anneeChiffreAffaire": null,
-      "impayesNbr": 0,
-      "totalImpayes": "0",
-      "codeActivite": null,
-      "activite": null,
-      "cin": "BK17261",
       "returnMessage": null,
       "returnCode": null
     }
