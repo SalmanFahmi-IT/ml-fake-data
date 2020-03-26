@@ -1,117 +1,5 @@
 {
-    "products":[
-        {
-          "id": "P001",
-          "value": "P001",
-          "dateCreation": "20-05-2019",
-          "dateExpiration": "31-12-2050",
-          "summary": "Vous êtes un professionnel de la santé(*) et souhaitez acquérir un bien d'équipement ou un immobilier professionnel, Maroc Leasing vous propose MÉDICAL LEASING, la solution leasing la mieux adaptée à vos besoins et à votre métier.",
-          "subTitle": "La solution leasing sur mesure pour les professionnels de la santé",
-          "title": "MEDICAL LEASING",
-          "img": "/fl-produits-assets/medicalleasing/ml-produit_medical-leasing.jpg",
-          "plaquette": "/fl-produits-assets/medicalleasing/ml-produit_medical-leasing.pdf"
-        },
-        {
-          "id": "P002",
-          "value": "P002",
-          "dateCreation": "24-06-2019",
-          "dateExpiration": "31-12-2050",
-          "summary": "Vous  exercez  une  profession  libérale  et  souhaitez  bénéficier d¿une offre bancaire complète qui répond à la fois à vos besoins professionnels et personnels ? La Banque Populaire a créé pour vous LIBERTIS PRO !",
-          "subTitle": "La solution liberté pour les pro",
-          "title": "LIBERTIS PRO",
-          "img": "/fl-produits-assets/LibertisProLease/libertis-pro.e89d1a18.jpg",
-          "plaquette": "/fl-produits-assets/LibertisProLease/RecupererProduitPDF.pdf"
-        },
-        {
-          "id": "P003",
-          "value": "P003",
-          "dateCreation": "24-06-2019",
-          "dateExpiration": "31-12-2050",
-          "summary": "Vous êtes une TPE, un artisan ou un commerçant à la recherche de la solution leasing la mieux adaptée à vos besoins ? Au  service  du  développement  de  votre  activité,  Maroc  Leasing  a  créé  pour  vous  AL  MOUKAWIL  CHAABI  LEASE,  une  offre  spécialement  conçue  afin  de  satisfaire  vos  attentes  en  matière  de  financement.",
-          "subTitle": "Le leasing dédié aux\npetites entreprises",
-          "title": "AL MOUKAWILCHAABI LEASE",
-          "img": "/fl-produits-assets/AlmoukawilChaabiLease/AlmoukawilChaabiLease.jpg",
-          "plaquette": "/fl-produits-assets/AlmoukawilChaabiLease/AlmoukawilChaabiLease.pdf"
-        },
-        {
-          "id": "P004",
-          "value": "P004",
-          "dateCreation": "19-07-2019",
-          "dateExpiration": "31-12-2050",
-          "summary": "Vous êtes une entreprise ou un professionnel, à la recherche de la solution leasing la mieux\nadaptée à vos besoins pour le financement de votre matériel de transport ?\nMaroc Leasing a créé pour vous NAKL LEASING, une offre sur mesure au service du\ndéveloppement de votre activité.",
-          "subTitle": "Le financement optimal de votre\nmatériel de transport",
-          "title": "NAKL LEASING",
-          "img": "/fl-produits-assets/NaklLeasing/visuel-nakl_leasing.jpg",
-          "plaquette": "/fl-produits-assets/NaklLeasing/plaquette-nakl_leasing.pdf"
-        }
-    ],
-    "clients":[
-    {
-      "id": "0000043229",
-      "rs": "  ",
-      "eid": "0000043229",
-      "prenom": "AHMED",
-      "codeTypeClient": "2",
-      "typeClient": "PERSONNE PHYSIQUE",
-      "ice": null,
-      "rc": "",
-      "codeFJ": "MR",
-      "fj": "PERSONNE PHYSIQUE",
-      "nbrAlertes": 0,
-      "nom": "AASSILA",
-      "dateCreation": null,
-      "adresse": "LOT NAJID 2 N  22  EL JADIDA ",
-      "mobile": null,
-      "fixe": null,
-      "tel": null,
-      "email": null,
-      "contratLoyer": "0",
-      "contratNbr": 0,
-      "capital": null,
-      "chiffreAffaire": "0",
-      "anneeChiffreAffaire": null,
-      "impayesNbr": 0,
-      "totalImpayes": "0",
-      "codeActivite": null,
-      "activite": null,
-      "cin": "M206467",
-      "returnMessage": null,
-      "returnCode": null
-    },
-    {
-      "id": "0000043123",
-      "rs": "  ",
-      "eid": "0000043123",
-      "prenom": "AHMED",
-      "codeTypeClient": "2",
-      "typeClient": "PERSONNE PHYSIQUE",
-      "ice": null,
-      "rc": "",
-      "codeFJ": "MR",
-      "fj": "PERSONNE PHYSIQUE",
-      "nbrAlertes": 0,
-      "nom": "TAZI",
-      "dateCreation": null,
-      "adresse": "LOT HAIT MHIDI N  13 CALIFORNIE CASABLANCA ",
-      "mobile": null,
-      "fixe": null,
-      "tel": null,
-      "email": null,
-      "contratLoyer": "0",
-      "contratNbr": 0,
-      "capital": null,
-      "chiffreAffaire": "0",
-      "anneeChiffreAffaire": null,
-      "impayesNbr": 0,
-      "totalImpayes": "0",
-      "codeActivite": null,
-      "activite": null,
-      "cin": "BK17261",
-      "returnMessage": null,
-      "returnCode": null
-    }
-    ],
-    "NatureBiens":[
+  "NatureBiens":[
         {
           "id": 0,
           "bienid": 0,
@@ -311,7 +199,7 @@
           "categorieContrat": "CBI"
         }
     ],
-    "FormeJuridique":[
+  "FormeJuridique":[
         {
           "code": "AP",
           "libelle": "Affaire personnelle",
@@ -328,47 +216,116 @@
           "typePersonne": "PM"
         }
     ],
-    "TVAs":[
+  "products":[
         {
-          "code": "T003",
-          "libelle": "20 %",
-          "value": 20,
-          "parDefaut": true
+          "id": "P001",
+          "value": "P001",
+          "dateCreation": "20-05-2019",
+          "dateExpiration": "31-12-2050",
+          "summary": "Vous êtes un professionnel de la santé(*) et souhaitez acquérir un bien d'équipement ou un immobilier professionnel, Maroc Leasing vous propose MÉDICAL LEASING, la solution leasing la mieux adaptée à vos besoins et à votre métier.",
+          "subTitle": "La solution leasing sur mesure pour les professionnels de la santé",
+          "title": "MEDICAL LEASING",
+          "img": "/fl-produits-assets/medicalleasing/ml-produit_medical-leasing.jpg",
+          "plaquette": "/fl-produits-assets/medicalleasing/ml-produit_medical-leasing.pdf"
         },
         {
-          "code": "T002",
-          "libelle": "14 %",
-          "value": 14,
-          "parDefaut": false
+          "id": "P002",
+          "value": "P002",
+          "dateCreation": "24-06-2019",
+          "dateExpiration": "31-12-2050",
+          "summary": "Vous  exercez  une  profession  libérale  et  souhaitez  bénéficier d¿une offre bancaire complète qui répond à la fois à vos besoins professionnels et personnels ? La Banque Populaire a créé pour vous LIBERTIS PRO !",
+          "subTitle": "La solution liberté pour les pro",
+          "title": "LIBERTIS PRO",
+          "img": "/fl-produits-assets/LibertisProLease/libertis-pro.e89d1a18.jpg",
+          "plaquette": "/fl-produits-assets/LibertisProLease/RecupererProduitPDF.pdf"
         },
         {
-          "code": "T000",
-          "libelle": "0 %",
-          "value": 0,
-          "parDefaut": false
+          "id": "P003",
+          "value": "P003",
+          "dateCreation": "24-06-2019",
+          "dateExpiration": "31-12-2050",
+          "summary": "Vous êtes une TPE, un artisan ou un commerçant à la recherche de la solution leasing la mieux adaptée à vos besoins ? Au  service  du  développement  de  votre  activité,  Maroc  Leasing  a  créé  pour  vous  AL  MOUKAWIL  CHAABI  LEASE,  une  offre  spécialement  conçue  afin  de  satisfaire  vos  attentes  en  matière  de  financement.",
+          "subTitle": "Le leasing dédié aux\npetites entreprises",
+          "title": "AL MOUKAWILCHAABI LEASE",
+          "img": "/fl-produits-assets/AlmoukawilChaabiLease/AlmoukawilChaabiLease.jpg",
+          "plaquette": "/fl-produits-assets/AlmoukawilChaabiLease/AlmoukawilChaabiLease.pdf"
+        },
+        {
+          "id": "P004",
+          "value": "P004",
+          "dateCreation": "19-07-2019",
+          "dateExpiration": "31-12-2050",
+          "summary": "Vous êtes une entreprise ou un professionnel, à la recherche de la solution leasing la mieux\nadaptée à vos besoins pour le financement de votre matériel de transport ?\nMaroc Leasing a créé pour vous NAKL LEASING, une offre sur mesure au service du\ndéveloppement de votre activité.",
+          "subTitle": "Le financement optimal de votre\nmatériel de transport",
+          "title": "NAKL LEASING",
+          "img": "/fl-produits-assets/NaklLeasing/visuel-nakl_leasing.jpg",
+          "plaquette": "/fl-produits-assets/NaklLeasing/plaquette-nakl_leasing.pdf"
         }
     ],
-    "TypesFrais":[
-        {
-          "code": "MATE",
-          "libelle": "Matériel"
-        },
-        {
-          "code": "ACCS",
-          "libelle": "Accessoires"
-        },
-        {
-          "code": "ATFR",
-          "libelle": "Autres frais"
-        },
-        {
-          "code": "FRIM",
-          "libelle": "Frais d'immatriculation"
-        },
-        {
-          "code": "OPTO",
-          "libelle": "Options"
-        }
-    ],
-    "Bareme":{"tauxNominal":9.5,"periodicite":1,"dureeminMois":24,"dureeMaxMois":48,"returnMessage":"OK","returnCode":"0000"}
+     "clients":[
+    {
+      "id": "0000043229",
+      "rs": "  ",
+      "eid": "0000043229",
+      "prenom": "AHMED",
+      "codeTypeClient": "2",
+      "typeClient": "PERSONNE PHYSIQUE",
+      "ice": null,
+      "rc": "",
+      "codeFJ": "MR",
+      "fj": "PERSONNE PHYSIQUE",
+      "nbrAlertes": 0,
+      "nom": "AASSILA",
+      "dateCreation": null,
+      "adresse": "LOT NAJID 2 N  22  EL JADIDA ",
+      "mobile": null,
+      "fixe": null,
+      "tel": null,
+      "email": null,
+      "contratLoyer": "0",
+      "contratNbr": 0,
+      "capital": null,
+      "chiffreAffaire": "0",
+      "anneeChiffreAffaire": null,
+      "impayesNbr": 0,
+      "totalImpayes": "0",
+      "codeActivite": null,
+      "activite": null,
+      "cin": "M206467",
+      "returnMessage": null,
+      "returnCode": null
+    },
+    {
+      "id": "0000043123",
+      "rs": "  ",
+      "eid": "0000043123",
+      "prenom": "AHMED",
+      "codeTypeClient": "2",
+      "typeClient": "PERSONNE PHYSIQUE",
+      "ice": null,
+      "rc": "",
+      "codeFJ": "MR",
+      "fj": "PERSONNE PHYSIQUE",
+      "nbrAlertes": 0,
+      "nom": "TAZI",
+      "dateCreation": null,
+      "adresse": "LOT HAIT MHIDI N  13 CALIFORNIE CASABLANCA ",
+      "mobile": null,
+      "fixe": null,
+      "tel": null,
+      "email": null,
+      "contratLoyer": "0",
+      "contratNbr": 0,
+      "capital": null,
+      "chiffreAffaire": "0",
+      "anneeChiffreAffaire": null,
+      "impayesNbr": 0,
+      "totalImpayes": "0",
+      "codeActivite": null,
+      "activite": null,
+      "cin": "BK17261",
+      "returnMessage": null,
+      "returnCode": null
+    }
+  ]
 }
