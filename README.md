@@ -1,1 +1,3 @@
 # ml-fake-data
+
+SELECT cr.code AS reason_code, rr.designation AS reason_designation, rs.stage_id AS stage_id, rst.stage_name AS stage_name, COUNT(DISTINCT d.id) AS dossier_count FROM dossier d JOIN comment c ON c.dossier_id = d.id JOIN comment_reasons cr ON cr.comment_id = c.id JOIN ref_reason rr ON rr.code = cr.code JOIN task t ON t.dossier_uuid = d.uuid JOIN ref_status rs ON rs.status_code = t.statuscode JOIN ref_stage rst ON rst.stage_id = rs.stage_id WHERE t.statuscode LIKE '%INCA%' AND t.entry_date >= DATE_TRUNC('month', CURRENT_DATE - INTERVAL '1 month') AND t.entry_date < DATE_TRUNC('month', CURRENT_DATE) GROUP BY cr.code, rr.designation, rs.stage_id, rst.stage_name ORDER BY dossier_count DESC;
